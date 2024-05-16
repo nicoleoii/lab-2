@@ -1,0 +1,22 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header {
+    background-color: rgb(105, 192, 211);
+}
+
+nav {
+    color: red;
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: rgb(147, 147, 147);
+}
+footer {
+    font-family: 'Courier New', Courier, monospace;
+}
